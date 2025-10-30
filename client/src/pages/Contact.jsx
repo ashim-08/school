@@ -317,7 +317,7 @@ const Contact = () => {
           </div>
           <div className="bg-white rounded-3xl shadow-2xl overflow-hidden border-4 border-gray-100">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3515.8234567890123!2d83.98765432!3d28.21098765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDEyJzM5LjYiTiA4M8KwNTknMTUuNiJF!5e0!3m2!1sen!2snp!4v1234567890123"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d320.1415664860835!2d84.10329163637613!3d28.119766176684134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3995a32c9d5999db%3A0xf2e7e76478e6a1a5!2sBrahma%20Rupa%20Higher%20Secondary%20School%2C%20GaganGaunda%20-%20JanaChautara%20Marga%2C%20Lekhnath%2033702!5e0!3m2!1sen!2snp!4v1761828628064!5m2!1sen!2snp"
               width="100%"
               height="450"
               style={{ border: 0 }}
